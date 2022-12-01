@@ -1,0 +1,8 @@
+# temporary files
+.ipynb_checkpoints
+
+
+# files used in the tutorial
+notebooks.tar
+temporaryfilethatwedeleteafterwards.txt
+tmpscript.sh
